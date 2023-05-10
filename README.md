@@ -88,7 +88,7 @@ LINQ supporta anche la composizione di query, ovvero la possibilità di concaten
 
 Grazie alla sua flessibilità e potenza, LINQ è diventato uno strumento essenziale per molti sviluppatori .NET. LINQ consente di scrivere codice più conciso, leggibile e mantenibile per manipolare e interrogare dati in diversi contesti, migliorando la produttività e riducendo la possibilità di errori.
                                                                                                                                                                       
-                                                                                                                                                                      ## Facoltativo
+## Facoltativo
 Se volete avere una visione più comoda del vostro Database installare l'estensione SQLite Viewer, l'icona è la sequente:
 
 <img src="https://user-images.githubusercontent.com/116791222/236402603-8a404d5f-95af-44bf-aa82-711673297c89.png"/>
